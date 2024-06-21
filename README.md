@@ -15,12 +15,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=victor-welter&theme=radical" />
 </p>
 
-## Gráfico de Atividade
-![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=victor-welter&theme=radical)
-
-## GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victor-welter&theme=radical)](https://git.io/streak-stats)
-
 ## Visitas no Perfil
 ![Visitas no Perfil](https://visitor-badge.glitch.me/badge?page_id=victor-welter.victor-welter)
 
