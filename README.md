@@ -12,8 +12,7 @@
 
 <h2 align="center">Minhas Estatísticas no GitHub</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victor-welter&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-welter&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victor-welter&theme=radical" />
 </p>
 
 ## Gráfico de Atividade
@@ -26,5 +25,4 @@
 ![Visitas no Perfil](https://visitor-badge.glitch.me/badge?page_id=victor-welter.victor-welter)
 
 ## Total de Commits
-[![Commits](#commits)](https://github.com/victor-welter)
-<!-- commits -->
+[![Commits](#commits)](https://github.com/victor-welter)    
