@@ -22,9 +22,6 @@
 ## GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victor-welter&theme=radical)](https://git.io/streak-stats)
 
-## GIF Animado
-![GIF de Bem-Vindo](https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif)
-
 ## Visitas no Perfil
 ![Visitas no Perfil](https://visitor-badge.glitch.me/badge?page_id=victor-welter.victor-welter)
 
