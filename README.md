@@ -1,12 +1,5 @@
 # Olá! Eu sou Victor Welter 👋
 
-![banner](https://via.placeholder.com/1200x400.png?text=Bem+vindo+ao+meu+GitHub)
-
-<h2 align="center">Sobre Mim</h2>
-<p align="center">
-  Olá, me chamo Victor Vinícius Welter, tenho 21 anos e sou formado em Técnico de Informática. Atualmente, estou cursando Engenharia de Computação. Estou constantemente aprimorando minhas habilidades e explorando novas ferramentas de desenvolvimento. Valorizo muito a organização e busco sempre a excelência em tudo que faço. Tenho boa capacidade de comunicação e facilidade em adquirir novos conhecimentos.
-</p>
-
 <h2 align="center">Linguagens e Ferramentas</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-Flutter-000?&logo=Flutter"/>
