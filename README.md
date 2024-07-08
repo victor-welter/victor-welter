@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=victor-welter&color=101E26"><br>
+<img align="left" src="https://komarev.com/ghpvc/?username=victor-welter&color=101E26"><br>
 
 <div align="center">
   <!-- Work Links -->
@@ -19,8 +19,8 @@
   <br>
 </div>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=victor-welter&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victor-welter&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victor-welter&theme=tokyonight) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=victor-welter&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victor-welter&hide=Html&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victor-welter&theme=github_dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor-welter&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=victor-welter&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor-welter&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=victor-welter&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
 | :-: | :-: |
